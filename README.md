@@ -1,3 +1,3 @@
-# Fairness-in-Facial-Recognition
+# Project Robustness Parity
 
 WIP
